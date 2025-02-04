@@ -63,10 +63,6 @@ Modify the following sections of `bot.py` to customize the booking details:
 
 This project is intended for educational purposes only. Use it responsibly and ensure compliance with the website's terms of service.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
 Nicola Capancioni
