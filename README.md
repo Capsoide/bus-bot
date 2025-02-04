@@ -65,5 +65,5 @@ This project is intended for educational purposes only. Use it responsibly and e
 
 ## Author
 
-Nicola Capancioni
+Sviluppato da Nicola Capancioni 💻
 
