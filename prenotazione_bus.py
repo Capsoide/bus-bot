@@ -126,7 +126,7 @@ try:
             EC.presence_of_element_located((By.XPATH, "//input[@type='email' and @name='EmailAcquirente']"))
         )
         email.clear()
-        email.send_keys("nicolacapancioni@gmail.com")
+        email.send_keys("INSERT HERE YOUR E-MAIL")
         time.sleep(3)
         print("EMAIL compilata ok")
     except Exception as e:
@@ -162,7 +162,7 @@ try:
             EC.presence_of_element_located((By.XPATH, "//input[@type='email' and @name='Nominativi[0].Email']"))
         )
         mail.clear()
-        mail.send_keys("nicolacapancioni@gmail.com")
+        mail.send_keys("INSERT HERE YOUR E-MAIL")
         time.sleep(3)
         print("mail2 ok")
     except Exception as e:
